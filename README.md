@@ -6,7 +6,7 @@ Description: My final project for my Java 2 class. It required me to create a Ro
 Demonstrates:
 * Basic Java Competency
 * Ability to create Graphic User Interfaces
-* Using audio with Java programs.
+* Using audio, images, and other media with Java programs.
 
 Screenshot:
 ![Main interface](https://github.com/tylermassie/portfolio/blob/main/scr_maininterface.png?raw=true)
